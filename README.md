@@ -78,4 +78,4 @@ The dashboard displays counts of reported incidents, not population-adjusted cri
 
 ## AI-use statement
 
-ChatGPT assisted with Streamlit application structure, dashboard code, and project documentation. The dataset selection, analysis questions, data preparation, and interpretation are based on the student's project work. The student is responsible for reviewing, understanding, testing, and presenting the final application.
+ChatGPT assisted with Streamlit application structure, dashboard code, and project documentation. 
