@@ -4,7 +4,7 @@ An interactive Streamlit dashboard exploring reported CMPD incident patterns ove
 
 ## Published application
 
-**Streamlit app URL:** Add your published Streamlit Community Cloud URL here after deployment.
+**Streamlit app URL:** https://charlottemecklenburgcrimedashboard-75dtpuhvt7clyicjsqtdxv.streamlit.app
 
 ## Project purpose
 
